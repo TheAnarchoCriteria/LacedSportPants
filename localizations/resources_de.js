@@ -1,7 +1,7 @@
 const resources_de = {
   pageTitle: "Manifesto",
   logoAlt: "Logo der Marke",
-  productName: "Rock mit Geheimnissen",
+  productName: "The Laced Sport Jacket",
   imageAlt: "Foto des Artikels",
   menuItems: [
     "Produktcode",
