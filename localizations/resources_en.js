@@ -1,7 +1,7 @@
 const resources_en = {
   pageTitle: "Manifesto",
   logoAlt: "Brand logo",
-  productName: "The Laced Sport Jacket",
+  productName: "Sport Luxe Jacket",
   imageAlt: "Photo of the item",
   menuItems: [
     "Product code",
